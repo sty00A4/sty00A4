@@ -1,7 +1,7 @@
 # In progress
-### Omni
-https://github.com/sty00A4/omni
-: an interpreted programming language made in lua, aiming to combine all the common features in modern high-level programming languages
+### Lorth
+https://github.com/sty00A4/lorth
+: a stack based programming language written in lua
 
 # Repos I made
 
