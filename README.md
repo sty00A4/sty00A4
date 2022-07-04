@@ -1,13 +1,18 @@
 # In progress
-### Lorth
-https://github.com/sty00A4/lorth
-: a stack based programming language written in lua
+
+### ERL
+https://github.com/sty00A4/erl
+: easily readable language
 
 # Repos I made
 
 ### BaseLang
 https://github.com/sty00A4/baselang
 : an interpreted programming language made in python, following and expanding upon a youtube tutorial series made by CodePulse
+
+### Lorth
+https://github.com/sty00A4/lorth
+: a stack based programming language written in lua
 
 ### LangGen
 https://github.com/sty00A4/langGen
