@@ -1,8 +1,8 @@
 # In progress
 
-### ERL
-https://github.com/sty00A4/erl
-: easily readable language
+### RL
+https://github.com/sty00A4/rl
+: readable language
 
 # Repos I made
 
