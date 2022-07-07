@@ -2,7 +2,7 @@
 
 ### RL
 https://github.com/sty00A4/rl
-: readable language
+: readable programming language
 
 # Repos I made
 
