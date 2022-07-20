@@ -1,5 +1,9 @@
 # In progress
 
+### Spyglass
+https://github.com/sty00A4/spyglass
+: light weight os system for the CC Tweaked Minecraft Mod (based on Computercraft)
+
 ### RL
 https://github.com/sty00A4/rl
 : readable programming language
