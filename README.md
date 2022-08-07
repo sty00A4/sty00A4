@@ -1,12 +1,8 @@
 # In progress
 
-### Spyglass
-https://github.com/sty00A4/spyglass
-: light weight os system for the CC Tweaked Minecraft Mod (based on Computercraft)
-
-### RL
-https://github.com/sty00A4/rl
-: readable programming language
+### LLP
+https://github.com/sty00A4/llp
+: language lexer and parser
 
 # Repos I made
 
@@ -17,6 +13,10 @@ https://github.com/sty00A4/baselang
 ### Lorth
 https://github.com/sty00A4/lorth
 : a stack based programming language written in lua
+
+### Spyglass
+https://github.com/sty00A4/spyglass
+: light weight os system for the CC Tweaked Minecraft Mod (based on Computercraft)
 
 ### LangGen
 https://github.com/sty00A4/langGen
