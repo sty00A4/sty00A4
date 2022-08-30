@@ -1,8 +1,8 @@
 # In progress
 
-### LLP
-https://github.com/sty00A4/llp
-: language lexer and parser
+### styOS
+https://github.com/sty00A4/styOS
+: a simple independet os written in rust for personal learning purposes mainly
 
 # Repos I made
 
@@ -13,6 +13,10 @@ https://github.com/sty00A4/baselang
 ### Lorth
 https://github.com/sty00A4/lorth
 : a stack based programming language written in lua
+
+### LLP
+https://github.com/sty00A4/llp
+: language lexer and parser
 
 ### Spyglass
 https://github.com/sty00A4/spyglass
