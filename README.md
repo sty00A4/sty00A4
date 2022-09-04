@@ -1,8 +1,6 @@
 # In progress
 
-### styOS
-https://github.com/sty00A4/styOS
-: a simple independet os written in rust for personal learning purposes mainly
+None
 
 # Repos I made
 
