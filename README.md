@@ -28,6 +28,8 @@ https://github.com/codecrafters-io/build-your-own-x
 https://github.com/Textualize/textual
 ### ACWJ - Comiler Journey
 https://github.com/DoctorWkt/acwj
+### Insitux
+https://github.com/phunanon/Insitux
 ### Awesome Python
 https://github.com/vinta/awesome-python
 ### 30 seconds of python
