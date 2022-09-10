@@ -1,6 +1,7 @@
 # In progress
 
-*nothing*
+https://github.com/sty00A4/vex
+: general purpose clojure-like interpreted scripting language written in rust
 
 # Repos I made
 
