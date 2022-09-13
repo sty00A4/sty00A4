@@ -2,7 +2,7 @@
 
 ### Vex
 https://github.com/sty00A4/vex
-: general purpose clojure-like interpreted scripting language written in rust
+: general purpose, staticly typed, interpreted programming language aiming to combine the security of rust with the string and list manipulation power of languages like python
 
 # Repos I made
 
