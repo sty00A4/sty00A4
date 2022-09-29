@@ -1,26 +1,26 @@
 # In progress
 
-### Vex
-https://github.com/sty00A4/vex
-: general purpose, staticly typed, interpreted programming language aiming to combine the security of rust with the string and list manipulation power of languages like python
+### Vector
+https://github.com/sty00A4/vector
+: An easily readable dynamic programming language implementing units and rules
 
 # Repos I made
 
 ### Rustack
 https://github.com/sty00A4/rustack
-: a stack based programming language written in rust
+: A stack based programming language written in rust
 
 ### BaseLang
 https://github.com/sty00A4/baselang
-: an interpreted programming language made in python, following and expanding upon a youtube tutorial series made by CodePulse
+: An interpreted programming language made in python, following and expanding upon a youtube tutorial series made by CodePulse
 
 ### Lorth
 https://github.com/sty00A4/lorth
-: a stack based programming language written in lua
+: A stack based programming language written in lua
 
 ### LangGen
 https://github.com/sty00A4/langGen
-: a word generator for conlanging
+: A word generator for conlanging
 
 # Repos I like
 
