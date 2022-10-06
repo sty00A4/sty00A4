@@ -2,8 +2,7 @@
 
 ### Vector
 https://github.com/sty00A4/vector
-: An dynamic programming language implementing units and rules
-with an lua/ruby-like syntax
+: An dynamic programming language implementing rules with an lua/ruby-like syntax
 
 # Repos I made
 
