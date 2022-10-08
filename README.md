@@ -1,8 +1,8 @@
 # In progress
 
-### Vector
-https://github.com/sty00A4/vector
-: An dynamic programming language implementing rules with an lua/ruby-like syntax
+### EQ
+https://github.com/sty00A4/eq
+: simple calculator language in progress for expansion
 
 # Repos I made
 
