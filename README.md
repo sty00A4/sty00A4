@@ -1,8 +1,8 @@
 # In progress
 
-### EQ
-https://github.com/sty00A4/eq
-: simple calculator language in progress for expansion
+### Marte
+https://github.com/sty00A4/marte
+: Marte is a programming language trying to be like Lua but with additional syntax, written in Lua
 
 # Repos I made
 
