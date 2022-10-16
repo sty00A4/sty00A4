@@ -1,18 +1,14 @@
 # In progress
 
-### Marte
-https://github.com/sty00A4/marte
-: Marte is a programming language trying to be like Lua but with additional syntax, written in Lua
-
-### Meta
-https://github.com/sty00A4/meta
-: A computercraft os using it's own gui library
-
 # Repos I made
 
 ### Rustack
 https://github.com/sty00A4/rustack
 : A stack based programming language written in rust
+
+### EQ
+https://github.com/sty00A4/eq
+: A simple calculation language
 
 ### BaseLang
 https://github.com/sty00A4/baselang
