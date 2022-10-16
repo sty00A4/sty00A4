@@ -4,6 +4,10 @@
 https://github.com/sty00A4/marte
 : Marte is a programming language trying to be like Lua but with additional syntax, written in Lua
 
+### Meta
+https://github.com/sty00A4/meta
+: A computercraft os using it's own gui library
+
 # Repos I made
 
 ### Rustack
