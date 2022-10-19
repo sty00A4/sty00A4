@@ -1,5 +1,9 @@
 # In progress
 
+### Funx
+https://github.com/sty00A4/funx
+: A Lisp-like programmable programming language, writte in Rust using no external lexer or parser.
+
 # Repos I made
 
 ### Rustack
