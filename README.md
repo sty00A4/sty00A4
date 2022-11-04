@@ -2,7 +2,7 @@
 
 ### Funx
 https://github.com/sty00A4/funx
-: A Lisp-like programmable programming language, writte in Rust using no external lexer or parser.
+: A programmable programming language written in Rust
 
 # Repos I made
 
@@ -21,10 +21,6 @@ https://github.com/sty00A4/baselang
 ### Lorth
 https://github.com/sty00A4/lorth
 : A stack based programming language written in lua
-
-### LangGen
-https://github.com/sty00A4/langGen
-: A word generator for conlanging
 
 # Repos I like
 
