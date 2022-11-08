@@ -10,13 +10,13 @@ https://github.com/sty00A4/rustack
 https://github.com/sty00A4/equa
 : A math based programming language written in rust
 
-### BaseLang
-https://github.com/sty00A4/baselang
-: An interpreted programming language made in python, following and expanding upon a youtube tutorial series made by CodePulse
-
 ### Lorth
 https://github.com/sty00A4/lorth
 : A stack based programming language written in lua
+
+### BaseLang
+https://github.com/sty00A4/baselang
+: An interpreted programming language made in python, following and expanding upon a youtube tutorial series made by CodePulse
 
 # Repos I like
 
