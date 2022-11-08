@@ -6,6 +6,10 @@
 https://github.com/sty00A4/equa
 : A math based programming language written in rust
 
+### Funx
+https://github.com/sty00A4/funx
+: A programmable programming language written in Rust
+
 ### Rustack
 https://github.com/sty00A4/rustack
 : A stack based programming language written in rust
