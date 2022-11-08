@@ -1,18 +1,14 @@
 # In progress
 
-### Funx
-https://github.com/sty00A4/funx
-: A programmable programming language written in Rust
-
 # Repos I made
 
 ### Rustack
 https://github.com/sty00A4/rustack
 : A stack based programming language written in rust
 
-### EQ
-https://github.com/sty00A4/eq
-: A simple calculation language
+### Equa
+https://github.com/sty00A4/equa
+: A math based programming language written in rust
 
 ### BaseLang
 https://github.com/sty00A4/baselang
