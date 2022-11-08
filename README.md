@@ -2,13 +2,13 @@
 
 # Repos I made
 
-### Rustack
-https://github.com/sty00A4/rustack
-: A stack based programming language written in rust
-
 ### Equa
 https://github.com/sty00A4/equa
 : A math based programming language written in rust
+
+### Rustack
+https://github.com/sty00A4/rustack
+: A stack based programming language written in rust
 
 ### Lorth
 https://github.com/sty00A4/lorth
