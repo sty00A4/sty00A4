@@ -1,14 +1,18 @@
 # In progress
 
-### CraftScript
-https://github.com/sty00A4/craftscript
-: A computercraft scripting language
+### Proc
+https://github.com/sty00A4/proc
+: A An interpreted programming language, implementing the concepts of rules and containers
 
 # Repos I made
 
 ### Equa
 https://github.com/sty00A4/equa
 : A math based programming language written in rust
+
+### CraftScript
+https://github.com/sty00A4/craftscript
+: A computercraft scripting language
 
 ### Funx
 https://github.com/sty00A4/funx
