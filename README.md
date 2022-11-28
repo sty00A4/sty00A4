@@ -2,7 +2,7 @@
 
 ### Proc
 https://github.com/sty00A4/proc
-: A An interpreted programming language, implementing the concepts of rules and containers
+: An interpreted programming language, implementing the concepts of rules and containers
 
 # Repos I made
 
