@@ -4,6 +4,10 @@
 https://github.com/sty00A4/proc
 : An interpreted programming language, implementing the concepts of rules and containers
 
+### PicoByte
+https://github.com/sty00A4/pico-byte
+: A cpu emulator following and expanding upon this tutorial: https://bugzmanov.github.io/nes_ebook/chapter_1.html
+
 # Repos I made
 
 ### Equa
