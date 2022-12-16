@@ -10,6 +10,10 @@ https://github.com/sty00A4/equa
 https://github.com/sty00A4/craftscript
 : A computercraft scripting language
 
+### Brainfuck
+https://github.com/sty00A4/brainfuck
+: A brainfuck interpreter in Rust
+
 ### Proc
 https://github.com/sty00A4/proc
 : An interpreted programming language, implementing the concepts of rules and containers
