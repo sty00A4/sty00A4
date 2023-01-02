@@ -1,5 +1,9 @@
 # In progress
 
+### Nody
+https://github.com/sty00A4/nody
+: A lisp-looking programming language for fun in Rust
+
 # Repos I made
 
 ### Equa
