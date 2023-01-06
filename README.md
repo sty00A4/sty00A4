@@ -8,10 +8,6 @@ https://github.com/sty00A4/nody
 https://github.com/sty00A4/equa
 : A math based programming language written in rust
 
-### CraftScript
-https://github.com/sty00A4/craftscript
-: A computercraft scripting language
-
 ### Brainfuck
 https://github.com/sty00A4/brainfuck
 : A brainfuck interpreter in Rust
@@ -27,6 +23,10 @@ https://github.com/sty00A4/funx
 ### Rustack
 https://github.com/sty00A4/rustack
 : A stack based programming language written in rust
+
+### CraftScript
+https://github.com/sty00A4/craftscript
+: A computercraft scripting language
 
 ### Lorth
 https://github.com/sty00A4/lorth
