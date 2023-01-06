@@ -1,6 +1,4 @@
-# In progress
-
-# Repos I made
+# My Repository Collection
 
 ### Nody
 https://github.com/sty00A4/nody
@@ -38,7 +36,7 @@ https://github.com/sty00A4/lorth
 https://github.com/sty00A4/baselang
 : An interpreted programming language made in python, following and expanding upon a youtube tutorial series made by CodePulse
 
-# Repos I like
+# My Favorite Repositories from Others
 
 ### Build your own X
 https://github.com/codecrafters-io/build-your-own-x
