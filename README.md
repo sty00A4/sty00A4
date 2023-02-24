@@ -4,6 +4,10 @@
 https://github.com/sty00A4/nody
 : A lisp-looking programming language for fun in Rust
 
+### EquaMap
+https://github.com/sty00A4/equa-map
+: EquaMap extend Equa in the way of introducing maps
+
 ### Equa
 https://github.com/sty00A4/equa
 : A math based programming language written in rust
@@ -11,6 +15,10 @@ https://github.com/sty00A4/equa
 ### Brainfuck
 https://github.com/sty00A4/brainfuck
 : A brainfuck interpreter in Rust
+
+### Oplang
+https://github.com/sty00A4/oplang
+: A revision of an older programming language made by me (sty00A4), which sucked ass
 
 ### Proc
 https://github.com/sty00A4/proc
