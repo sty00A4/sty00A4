@@ -14,6 +14,10 @@ https://github.com/sty00A4/nody
 https://github.com/sty00A4/equa-map
 : EquaMap extend Equa in the way of introducing maps
 
+### UNIOS
+https://github.com/sty00A4/unios
+: A zero dependency rust library for working with units
+
 ### Equa
 https://github.com/sty00A4/equa
 : A math based programming language written in rust
